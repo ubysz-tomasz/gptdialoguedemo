@@ -20,8 +20,10 @@ A quick demo of GPT integration with Unity3D to create a dialogue system. The pr
 
 - Open the project in Unity3D
 - Enter your OpenAI API key in the Component "*GPTAPIClient*" located in the GameObject called "*Conversation Controller*"
+
 ![image](https://user-images.githubusercontent.com/62375514/233845762-fe36744e-9edc-4784-b0e6-963748e79574.png)
 - Fill in the "*Settings*" fields for AI and Player to customize the chat experience
+
 ![image](https://user-images.githubusercontent.com/62375514/233845791-1c1122c8-6190-48ce-bf3b-fe50bd1ec79c.png)
 
 - Run the project
