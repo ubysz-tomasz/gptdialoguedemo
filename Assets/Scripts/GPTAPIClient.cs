@@ -34,7 +34,7 @@ public class GPTAPIClient : MonoBehaviour
 
     [SerializeField] private string _model = "gpt-3.5-turbo";
     [SerializeField] private string _endpoint = "https://api.openai.com/v1/chat/completions";
-    [SerializeField] private string _key = "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";
+    [SerializeField] private string _key = "";
 
     private List<Message> _messagesSoFar = new();
 
