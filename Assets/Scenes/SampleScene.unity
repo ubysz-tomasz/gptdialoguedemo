@@ -223,7 +223,7 @@ MonoBehaviour:
   m_CharacterValidation: 0
   m_RegexValue: 
   m_GlobalPointSize: 24
-  m_CharacterLimit: 60
+  m_CharacterLimit: 180
   m_OnEndEdit:
     m_PersistentCalls:
       m_Calls: []
@@ -261,7 +261,7 @@ MonoBehaviour:
   m_ResetOnDeActivation: 1
   m_RestoreOriginalTextOnEscape: 1
   m_isRichTextEditingAllowed: 0
-  m_LineLimit: 2
+  m_LineLimit: 3
   m_InputValidator: {fileID: 0}
 --- !u!114 &75057458
 MonoBehaviour:
@@ -3395,7 +3395,7 @@ MonoBehaviour:
   - {fileID: 1290989884}
   - {fileID: 1462033846}
   _playerGender: 0
-  _aiLanguage: 0
+  _aiLanguage: 1
   _aiName: UwUmily
   _aiAge: 28
   _aiGender: 1
@@ -3484,4 +3484,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _model: gpt-3.5-turbo
   _endpoint: https://api.openai.com/v1/chat/completions
-  _key: 
+  _key: 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
