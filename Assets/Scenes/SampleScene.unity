@@ -3484,4 +3484,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _model: gpt-3.5-turbo
   _endpoint: https://api.openai.com/v1/chat/completions
-  _key: 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
+  _key: 
